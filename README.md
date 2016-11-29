@@ -1,6 +1,6 @@
 # SFDC-CodeRepo
 
-This is the code repo for interesting stuff that could be resused in many Salesforce.com projects.
+This is the code repo for interesting stuff that could be reused in many Salesforce.com projects.
 
 1) Finalcial Force Service/Domain/Selector (Soc) pattern
 
